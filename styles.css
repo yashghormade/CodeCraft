@@ -1,0 +1,47 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    /* Your header styles */
+}
+
+/* Main content styles */
+main {
+    display: flex;
+    flex-direction: column;
+    /* Your main content styles */
+}
+
+/* Feed styles */
+#feed {
+    /* Your feed styles */
+}
+
+/* Post styles */
+.post {
+    /* Your post styles */
+}
+
+/* Comment styles */
+.comment {
+    /* Your comment styles */
+}
+
+/* Footer styles */
+footer {
+    /* Your footer styles */
+}
+
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+    /* Your responsive styles for mobile devices */
+    main {
+        flex-direction: column;
+    }
+    /* Other responsive styles */
+}
